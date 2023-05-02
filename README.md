@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EasQuiz
+- 👋 Hi, I’m @Audioable
 - 👀 I’m interested in Making websites for people which can help them in any way from metal activity to physical.
 - 🌱 I’m currently learning Python and working on another of my website with my friends@aarav and @ Easwar based on fitness  
 
